@@ -5,7 +5,7 @@
 
 主要特性解释集中在内核特性和CPU/GPU的硬件特性支持。
 
-deb包是在发布内核时最新的Ubuntu上编译得到。Ubuntu的mainline内核（https://kernel.ubuntu.com/mainline/）包含了新于当前系统发布的内核版本，但是对于最新的内核的编译支持速度较慢。我编译的最新的内核是使用Ubuntu的mainline默认配置+打开BINDER支持（可以运行Waydroid）。
+deb包是在发布内核时最新的Ubuntu上编译得到。Ubuntu的mainline内核（https://kernel.ubuntu.com/mainline/ ）包含了新于当前系统发布的内核版本，但是对于最新的内核的编译支持速度较慢。我编译的最新的内核是使用Ubuntu的mainline默认配置+打开BINDER支持（可以运行Waydroid）。
 
 # 例如6.8
 ## Linus Torvalds Release Email：

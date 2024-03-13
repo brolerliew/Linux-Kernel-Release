@@ -1,0 +1,2 @@
+# LinuxKernelRelease
+对Linux内核版本更新的主要功能的技术背景进行深入解释

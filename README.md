@@ -1,9 +1,11 @@
 # LinuxKernelRelease
-对Linux内核版本更新的主要功能的技术背景进行深入解释。
+对Linux内核版本更新的主要功能的技术背景进行深入解释。还包括最新的内核的deb包发布。
 
 包含各个RC版本的Linus的发布邮件和对应的代码地址和变更列表。以及LWN、phoronix和KernelNewbies的优秀的版本特性解释链接。
 
 主要特性解释集中在内核特性和CPU/GPU的硬件特性支持。
+
+deb包是在发布内核时最新的Ubuntu上编译得到。Ubuntu的mainline内核（https://kernel.ubuntu.com/mainline/）包含了新于当前系统发布的内核版本，但是对于最新的内核的编译支持速度较慢。我编译的最新的内核是使用Ubuntu的mainline默认配置+打开BINDER支持（可以运行Waydroid）。
 
 # 例如6.8
 ## Linus Torvalds Release Email：
